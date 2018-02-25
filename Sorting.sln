@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lessons", "Lessons", "{215D8644-F812-4E28-9886-2C02B6A71255}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{1025F2B1-40C7-4FAD-A66C-ECB7C50984AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingLesson", "SortingLesson\SortingLesson.csproj", "{C9DFCE95-B3D5-48AB-9967-82628368A1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingLessonTests", "SortingLessonTests\SortingLessonTests.csproj", "{FEFA9FA8-97FD-412B-AE6A-6BA5D4B4C109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9DFCE95-B3D5-48AB-9967-82628368A1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DFCE95-B3D5-48AB-9967-82628368A1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DFCE95-B3D5-48AB-9967-82628368A1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DFCE95-B3D5-48AB-9967-82628368A1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFA9FA8-97FD-412B-AE6A-6BA5D4B4C109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFA9FA8-97FD-412B-AE6A-6BA5D4B4C109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFA9FA8-97FD-412B-AE6A-6BA5D4B4C109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFA9FA8-97FD-412B-AE6A-6BA5D4B4C109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C9DFCE95-B3D5-48AB-9967-82628368A1BD} = {215D8644-F812-4E28-9886-2C02B6A71255}
+		{FEFA9FA8-97FD-412B-AE6A-6BA5D4B4C109} = {1025F2B1-40C7-4FAD-A66C-ECB7C50984AF}
+	EndGlobalSection
+EndGlobal
